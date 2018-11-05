@@ -2,7 +2,7 @@
 layout: post
 title: Dark Arts with Aerial Roots
 subtitle: Our first stage performance as a duo
-tags: [performance]
+tags: [performance, silks]
 ---
 
 
