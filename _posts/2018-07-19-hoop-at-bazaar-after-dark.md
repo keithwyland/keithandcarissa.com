@@ -1,3 +1,4 @@
+---
 layout: post
 title: Hoop/Lyra at Bazaar After Dark
 subtitle: Some short doubles sequences at a street market
