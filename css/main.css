@@ -338,6 +338,10 @@ footer .theme-by {
   color: {{ site.page-text-col }};
 }
 
+.post-preview .post-entry a {
+  text-decoration: underline;
+}
+
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
