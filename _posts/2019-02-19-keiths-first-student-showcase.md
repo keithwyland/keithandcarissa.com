@@ -2,7 +2,7 @@
 layout: post
 title: Keith's First Student Showcase
 subtitle: 2019 Aerial Roots Student Showcase
-tags: [performance, silks]
+tags: [performance, stage, silks]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CxMrjCqL4yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
