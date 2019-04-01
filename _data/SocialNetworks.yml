@@ -57,7 +57,12 @@ snapchat:
   icon: "fa-snapchat-ghost"
 
 instagram:
-  name: "Instagram"
+  name: "Keith's Instagram"
+  baseURL: "https://www.instagram.com/"
+  icon: "fa-instagram"
+
+instagram2:
+  name: "Carissa's Instagram"
   baseURL: "https://www.instagram.com/"
   icon: "fa-instagram"
 
