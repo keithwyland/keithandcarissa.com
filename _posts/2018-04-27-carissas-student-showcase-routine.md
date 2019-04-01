@@ -2,7 +2,7 @@
 layout: post
 title: Carissa's Student Showcase Routine
 subtitle: Carissa's first performance
-tags: [performance, hammock]
+tags: [performance, stage, hammock]
 ---
 
 
