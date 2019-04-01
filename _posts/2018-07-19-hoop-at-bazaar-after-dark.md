@@ -2,7 +2,7 @@
 layout: post
 title: Hoop/Lyra at Neenah Bazaar After Dark
 subtitle: Some short doubles sequences at a street market
-tags: [ambient, lyra]
+tags: [performance, ambient, lyra]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwbeDP4dPgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
