@@ -2,7 +2,7 @@
 layout: post
 title: Under the Big Top
 subtitle: Drag and circus fundraiser for Safe Haven Pet Sanctuary
-tags: [performance, lyra]
+tags: [performance, stage, lyra]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p05nzsYetpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
