@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dark Arts with Aerial Roots
-subtitle: Our first stage performance as a duo
+title: Cirque Macabre 2019
+subtitle: Duo silks performed to "Silver and Cold" by AFI
 tags: [performance, stage, silks]
 ---
 
